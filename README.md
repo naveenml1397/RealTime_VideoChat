@@ -1,2 +1,2 @@
 # RealTime_VideoChat
-Real-Time Video Chatting Application
+Real time video chatting Mern stack web application
